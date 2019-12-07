@@ -1,0 +1,56 @@
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\project_marsa.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\project_marsa.exe
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\project_marsa.pdb
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.exe
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.pdb
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.Form2.resources
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.UserControl1.resources
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.UserControl2.resources
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\mydata_marsa.mdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\project_marsa\project_marsa\obj\Debug\project_marsa.Form3.resources
+C:\Users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\itextsharp.dll
+C:\Users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc\documents\visual studio 2012\Projects\project_marsa\project_marsa\bin\Debug\itextsharp.xtra.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\project_marsa.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\mydata_marsa.mdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\project_marsa.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\project_marsa.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\itextsharp.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\bin\Debug\itextsharp.xtra.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.Form2.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.Form3.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.UserControl1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.UserControl2.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\pro_ma\project_marsa\obj\Debug\project_marsa.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\marsa_project.mdf
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\marsa_project_log.ldf
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\project_marsa.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\project_marsa.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\project_marsa.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\itextsharp.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\itextsharp.xtra.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.Form2.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.Form3.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.UserControl1.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.UserControl2.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\project_marsa.exe.manifest
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\bin\Debug\project_marsa.application
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.exe.manifest
+C:\Users\pc\Documents\Visual Studio 2012\Projects\Nouveau dossier (2)\project_marsa\obj\Debug\project_marsa.application
